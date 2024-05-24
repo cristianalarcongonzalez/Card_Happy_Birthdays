@@ -121,3 +121,7 @@ h4 {
 .text-right {
 	text-align: right;
 }
+
+.parrafo{
+ text-wrap: 2px;
+}
